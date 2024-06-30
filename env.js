@@ -1,10 +1,10 @@
 // API地址
-window.routerBase = 'http://127.0.0.1:8000/'
+window.routerBase = 'https://aa.cloud666.cc/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: '六六云',
   // 站点描述
-  description: 'Xboard',
+  description: '六六云-给梦想以自由。',
   assets_path: '/assets',
   // 主题色
   theme: {
